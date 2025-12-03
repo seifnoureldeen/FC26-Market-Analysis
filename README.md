@@ -7,6 +7,7 @@
 **Author:** Seif NourElDeen
 **Date:** December 2025
 **Tools Used:** SQL (BigQuery), Tableau, Excel
+**Data Source:** [FC 26 Player Data on Kaggle](https://www.kaggle.com/datasets/rovnez/fc-26-fifa-26-player-data)
 
 ## 🔗 Project Links
 
