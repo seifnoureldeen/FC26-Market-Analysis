@@ -1,5 +1,9 @@
 # EA Sports FC 26 Market Analysis: Finding Value in Ultimate Team ⚽📊
 
+![SQL](https://img.shields.io/badge/Tools-SQL-blue?style=for-the-badge&logo=postgresql)
+![Tableau](https://img.shields.io/badge/Tools-Tableau-orange?style=for-the-badge&logo=tableau)
+![Excel](https://img.shields.io/badge/Tools-Excel-green?style=for-the-badge&logo=microsoft-excel)
+
 **Author:** Seif NourElDeen
 **Date:** December 2025
 **Tools Used:** SQL (BigQuery), Tableau, Excel
