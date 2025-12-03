@@ -5,7 +5,7 @@
 **Tools Used:** SQL (BigQuery), Tableau, Excel
 
 ## 🔗 Project Links
-- **Interactive Dashboard:** [PASTE YOUR TABLEAU PUBLIC LINK HERE]
+- **Interactive Dashboard:** [https://public.tableau.com/views/EASportsFC26MarketAnalysis-SeifNourElDeen/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]
 - **Full Report (PDF):** [View the Report in this Repo](FC26_Market_Analysis_Report.pdf)
 
 ## 📌 Executive Summary
