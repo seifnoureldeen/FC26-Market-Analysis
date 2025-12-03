@@ -5,8 +5,8 @@
 **Tools Used:** SQL (BigQuery), Tableau, Excel
 
 ## 🔗 Project Links
-- **Interactive Dashboard:** [https://public.tableau.com/views/EASportsFC26MarketAnalysis-SeifNourElDeen/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]
-- **Full Report (PDF):** [View the Report in this Repo](FC26_Market_Analysis_Report.pdf)
+- **Interactive Dashboard:** [View Dashboard Here](https://public.tableau.com/views/EASportsFC26MarketAnalysis-SeifNourElDeen/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- **Full Report (PDF):** [View the Report Here](FC26_Market_Analysis_Report.pdf)
 
 ## 📌 Executive Summary
 This project analyzes the EA Sports FC 26 transfer market to identify inefficiencies and "undervalued" players. By analyzing over 18,000 player items, I developed a "Value Score" algorithm to help users maximize their budget.
